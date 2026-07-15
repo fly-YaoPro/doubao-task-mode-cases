@@ -38,6 +38,56 @@
 - [模式七·Skill调用+多模态内容](能力模式七-%20Skill调用%20%2B%20多模态内容自动生产%20(支撑一%2B三组合)%20📱🖥️%20新增.md)
 - [模式八·Skill调用+网页应用生成](能力模式八-%20Skill调用%20%2B%20网页应用自动生成%20(支撑一%2B三组合)%20🖥️%20新增.md)
 
+
+
+## 补充案例库
+
+### Dola案例（12个原始任务模式案例设计）
+> 位于 cases/Dola案例/ — 初期的完整案例设计文档，含过筛、造假背景、提示词、预期路由。
+
+| 文件名 | 内容 |
+|--------|------|
+| Dola案例-最终案例库-v3.md | 12个案例终版+路由验证，最全面 |
+| Dola案例-Skill路由可行性审查.md | 逐案对照skill文档的路由验证 |
+| Dola案例-任务模式测试案例集-修订版.md | 加入任务模式差异化的修订版 |
+| Dola案例-豆包Skill测试案例集.md | 按Skill组织的测试案例 |
+| Dola案例升级测试文档.md | 从初版到修订版的方法论演变 |
+| Dola案例-任务模式补充案例-视频设计.md | 视频设计方向的补充案例 |
+| Dola案例-金融方向案例.md / 续 | 金融板块Skill的测试案例 |
+| Dola案例-案例二/七/八 各修订版 | 个别案例深度迭代 |
+
+### PC端案例（5个PC场景专属案例）
+> 位于 cases/PC端案例/
+
+| 文件名 | 内容 |
+|--------|------|
+| PC端-VSCode配置案例.md | PC端本地配置文件操作 |
+| PC端-VibeCoding-打卡追踪器案例.md | PC端编程场景 |
+| PC端-案例四深度版.md | PC端深度工作流 |
+| PC端-隐私权限检查案例.md | PC端系统权限操作 |
+| PC端本地操作-测试步骤.md | PC端本地操作综合测试 |
+
+### 7月1日测试案例（2个电商/省钱版）
+> 位于 cases/ 目录下
+
+| 文件名 | 内容 |
+|--------|------|
+| 7月1日-测试案例集.md | 电商+设计行业案例，每个案例算清省钱账 |
+| 7月1日-测试案例集-电商设计版.md | 电商设计专属版本 |
+
+### Skill技能参考案例（14个各Skill测试案例）
+> 位于 cases/Skill技能参考/ — 各豆包Skill的独立测试案例，设计新案例时可参考Skill能力边界
+
+| 文件名 | 关联Skill |
+|--------|----------|
+| doubao-app-builder-* (6个) | doubao-app-builder |
+| doubao-browser-task-* (2个) | browser-task |
+| doubao-creative-video-* (2个) | doubao-creative-video |
+| doubao-visualization-* (1个) | doubao-visualization |
+| doubao-finance-sector-* (1个) | doubao-finance-sector |
+| doubao-market-hotspot-* (1个) | doubao-market-hotspot |
+| doubao-sentiment-tracker-* (1个) | doubao-sentiment-tracker |
+
 ## 新增案例
 
 案例 20-23 为近期设计的新案例，已入库：
